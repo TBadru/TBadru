@@ -4,9 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/toheeb-badru)
 [![Email](https://img.shields.io/badge/Email-red)](mailto:toheebbadru97@yahoo.com")
 
-I am [@TBadru](https://github.com/TBadru). 👋 
-
-An ambitious full-stack software engineer at [@Farsound](https://Farsound.com) with a passion for creating innovative and scalable solutions 👨🏾‍💻.
+An ambitious full-stack software engineer with a passion for creating innovative and scalable solutions 👨🏾‍💻.
 
 I have worked on projects in various domains/industries such as International Trade, Publishing, Financial and Insurance sectors, Aerospace and Aviation delivering high-quality software that meets the needs of the business/clients 🧮.
 
