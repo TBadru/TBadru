@@ -1,7 +1,9 @@
 ## 👨🏽‍💻 about me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40TBadru-239a3b.svg)](https://github.com/TBadru)
-[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/toheeb-badru)
+[![Gmail Badge](https://img.shields.io/badge/-toheebbadru97@yahoo.com-800080?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:toheebbadru97@yahoo.com)](mailto:toheebbadru97@yahoo.com)
+[![Linkedin Badge](https://img.shields.io/badge/-toheeb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/toheeb-badru)](https://www.linkedin.com/in/toheeb-badru/)
+[![GitHub](https://img.shields.io/badge/-TBadru-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/TBadru)](https://github.com/TBadru)
+
 
 
 An ambitious full-stack software engineer with a passion for creating innovative and scalable solutions 👨🏾‍💻.
