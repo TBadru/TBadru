@@ -31,6 +31,7 @@ I am always eager to learn new skills, especially in the [.NET](https://github.c
 
 ##
 ![stats](https://github-readme-stats.vercel.app/api?username=TBadru&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBadru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
