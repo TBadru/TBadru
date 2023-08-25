@@ -13,7 +13,8 @@ I have worked on projects in various domains/industries such as International Tr
 I am always eager to learn new skills, especially in the [.NET](https://github.com/microsoft/dotnet) ecosystem and take on new challenges in the software development field 🧠.
 
 
-## 💻 tech stack
+## 💻 tech stack used & interested in
+<!--
 ![https://cdn-icons-png.flaticon.com/24/1051/1051277.png](https://cdn-icons-png.flaticon.com/24/1051/1051277.png)
 ![https://cdn-icons-png.flaticon.com/24/732/732190.png](https://cdn-icons-png.flaticon.com/24/732/732190.png)
 ![https://cdn-icons-png.flaticon.com/24/5968/5968292.png](https://cdn-icons-png.flaticon.com/24/5968/5968292.png)
@@ -22,7 +23,6 @@ I am always eager to learn new skills, especially in the [.NET](https://github.c
 ![https://cdn-icons-png.flaticon.com/24/6132/6132222.png](https://cdn-icons-png.flaticon.com/24/6132/6132222.png)
 ![https://cdn-icons-png.flaticon.com/24/1265/1265531.png](https://cdn-icons-png.flaticon.com/24/1265/1265531.png)
 ![https://cdn-icons-png.flaticon.com/24/5969/5969059.png](https://cdn-icons-png.flaticon.com/24/5969/5969059.png)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -33,11 +33,44 @@ I am always eager to learn new skills, especially in the [.NET](https://github.c
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
-
-
-<!--
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p> -->
+
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npmjs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="dotnet" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nuget/nuget-icon.svg" alt="nuget" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/mailchimp/mailchimp-icon.svg" alt="mailchimp" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="55" height="55"/>
+
+      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npmjs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nuget/nuget-icon.svg" alt="nuget" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/mailchimp/mailchimp-icon.svg" alt="mailchimp" width="55" height="55"/>
+
+</p>
 
 ##
 ![stats](https://github-readme-stats.vercel.app/api?username=TBadru&show_icons=true&theme=tokyonight)
