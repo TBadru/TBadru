@@ -1,7 +1,7 @@
 ## 👨🏽‍💻 about me
 
 [![Gmail Badge](https://img.shields.io/badge/-toheebbadru97@yahoo.com-800080?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:toheebbadru97@yahoo.com)](mailto:toheebbadru97@yahoo.com)
-[![Linkedin Badge](https://img.shields.io/badge/-toheeb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/toheeb-badru)](https://www.linkedin.com/in/toheeb-badru/)
+[![Linkedin Badge](https://img.shields.io/badge/-toheebbadru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/toheeb-badru)](https://www.linkedin.com/in/toheeb-badru/)
 [![GitHub](https://img.shields.io/badge/-TBadru-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/TBadru)](https://github.com/TBadru)
 
 
