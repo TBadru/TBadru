@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-toheebbadru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/toheeb-badru)](https://www.linkedin.com/in/toheeb-badru/)
 [![GitHub](https://img.shields.io/badge/-TBadru-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/TBadru)](https://github.com/TBadru)
 
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 An ambitious full-stack software engineer with a passion for creating innovative and scalable solutions 👨🏾‍💻.
 
