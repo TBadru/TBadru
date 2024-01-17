@@ -10,7 +10,9 @@ An ambitious full-stack software engineer with a passion for creating innovative
 
 I have worked on projects in various domains/industries such as International Trade, Publishing, Financial and Insurance sectors, Aerospace and Aviation delivering high-quality software that meets the needs of the business/clients 🧮.
 
-I am always eager to learn new skills, especially in the [.NET](https://github.com/microsoft/dotnet) ecosystem and take on new challenges in the software development field 🧠.
+<!-- I am always eager to learn new skills, especially in the [.NET](https://github.com/microsoft/dotnet) ecosystem and take on new challenges in the software development field 🧠. -->
+
+I am always eager to learn new skills and take on new challenges in the Information Technology Industry🧠.
 
 
 ## 💻 tech stack used & interested in
