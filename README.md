@@ -5,13 +5,12 @@
 [![GitHub](https://img.shields.io/badge/-TBadru-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/TBadru)](https://github.com/TBadru)
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-An ambitious full-stack software engineer with a passion for creating innovative and scalable solutions 👨🏾‍💻.
 
-I have worked on projects in various domains/industries such as International Trade, Publishing, Insurance and technology, Aerospace and Aviation, delivering high-quality software that meets the needs of the business/clients 🧮.
+An ambitious and passionate software engineer with a deep interest in building innovative, scalable, and efficient software solutions. My work spans multiple aspects of software engineering, including design, development, programming, testing, deployments/ CI/CD, maintenance and other software-related issues with a constant drive to adapt, learn, and solve real-world problems 👨🏾‍💻.
 
+I've had the opportunity to work on impactful projects across a variety of industries such as International Trade, Healthcare and Technology, Publishing, InsurTech, Aerospace and Defence —always focused on delivering high-quality software that meets both business and client needs 🧮.
 <!-- I am always eager to learn new skills, especially in the [.NET](https://github.com/microsoft/dotnet) ecosystem and take on new challenges in the software development field 🧠. -->
-
-I am always eager to learn new skills and take on new challenges in the Information Technology Industry🧠.
+I'm always open to learning, collaborating, and exploring new technologies. Whether it's contributing to a challenging project, improving development workflows, or picking up a new tech stack, I'm excited to grow and make an impact in the tech industry 🧠.
 
 
 ## 💻 tech stack used & interested in
