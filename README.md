@@ -18,6 +18,10 @@ I'm always open to learning, collaborating, and exploring new technologies. Whet
 ## 💻 tech stack used & interested in
 
 <p align="center">
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt="dotnet" width="55" height="55"/> 
+         <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="cplusplus" width="55" height="55"/> 
+     <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="55" height="55"/> 
+    <img src="https://upload.vectorlogo.zone/logos/microsoft_azure/images/e584dc34-9cda-4cd3-b318-b6fe4909e4f8.svg" alt="azure" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="45" height="55"/>
@@ -35,7 +39,7 @@ I'm always open to learning, collaborating, and exploring new technologies. Whet
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="dotnet" width="55" height="55"/>
+      <!-- <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="dotnet" width="55" height="55"/> -->
       <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nuget/nuget-icon.svg" alt="nuget" width="45" height="55"/>
@@ -49,16 +53,16 @@ I'm always open to learning, collaborating, and exploring new technologies. Whet
       <img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="gitkracken" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="hashicorp" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="herokucli" width="55" height="55"/>
+      <!-- <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="herokucli" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="55" height="55"/> -->
       <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="45" height="55"/>
+      <!-- <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="45" height="55"/> -->
       <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg" alt="opensource" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg" alt="opensource" width="55" height="55"/>
       <!-- https://www.vectorlogo.zone  -->
 </p>
 
