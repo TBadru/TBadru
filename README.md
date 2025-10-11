@@ -13,59 +13,70 @@ I'm always open to learning, collaborating, and exploring new technologies. Whet
 <!-- I am always eager to learn new skills, especially in the [.NET](https://github.com/microsoft/dotnet) ecosystem and take on new challenges in the software development field 🧠. -->
 
 ## 💻 tech stack used & interested in
-
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt="dotnet" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="cplusplus" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="55" height="55"/> 
-      <img src="https://upload.vectorlogo.zone/logos/microsoft_azure/images/e584dc34-9cda-4cd3-b318-b6fe4909e4f8.svg" alt="azure" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npmjs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nuget/nuget-icon.svg" alt="nuget" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mailchimp/mailchimp-icon.svg" alt="mailchimp" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="gnubash" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" alt="opensource" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" alt="yml" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-icon.svg" alt="zig" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-icon.svg" alt="svelte" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqllite" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="tux" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="55" height="55"/>
-      <!-- https://www.vectorlogo.zone  -->
+
+  <!-- 🧠 Programming Languages -->
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt="dotnet" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="65" height="65"/> 
+  <img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-icon.svg" alt="zig" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="cplusplus" width="55" height="55"/>
+
+  <!-- ⚛️ Frameworks & Libraries -->
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/.NET_Core_Logo.svg" alt=".NET Core" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-icon.svg" alt="svelte" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" width="45" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="55" height="55"/> 
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="55" height="55"/> 
+  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npmjs" width="55" height="55"/>
+
+  <!-- 🎨 Frontend Technologies -->
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="45" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="45" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="45" height="55"/>
+
+  <!-- 🗄️ Backend & Databases -->
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqllite" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="55" height="55"/>
+
+  <!-- ☁️ Cloud & DevOps -->
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" alt="yml" width="55" height="55"/>
+
+  <!-- 🧰 Tools & IDEs -->
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> 
+  <img src="https://www.vectorlogo.zone/logos/nuget/nuget-icon.svg" alt="nuget" width="45" height="55"/>
+
+  <!-- 🔧 Version Control & Collaboration -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="55" height="55"/> 
+
+  <!-- 💻 Operating Systems & Environments -->
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="55" height="55"/>
+
+  <!-- 🌐 Others / Misc -->
+  <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="55" height="55"/> 
+  <img src="https://www.vectorlogo.zone/logos/mailchimp/mailchimp-icon.svg" alt="mailchimp" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" alt="opensource" width="55" height="55"/>
+
+  <!-- Shell -->
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="55" height="55"/>
+
 </p>
 
 ##
