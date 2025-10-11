@@ -76,6 +76,8 @@ I'm always open to learning, collaborating, and exploring new technologies. Whet
 
   <!-- Shell -->
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zsh/zsh-original.svg" alt="Zsh" width="50" height="50"/>
 
 </p>
 
