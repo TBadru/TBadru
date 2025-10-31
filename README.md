@@ -85,6 +85,8 @@ I'm always open to learning, collaborating, and exploring new technologies. Whet
 ![stats](https://github-readme-stats.vercel.app/api?username=TBadru&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBadru&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TBadru&theme=dark)
+
+
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TBadru&theme=javascript)](https://git.io/streak-stats) -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=TBadru&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats) -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=TBadru)](https://git.io/streak-stats) -->
