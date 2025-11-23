@@ -2,8 +2,6 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 An ambitious and passionate software engineer with a deep interest in building innovative, scalable, and efficient software solutions. My work encompasses multiple aspects of software engineering, including design, development, programming, testing, deployment, CI/CD, maintenance, and other software-related tasks, with a constant drive to adapt, learn, and solve real-world problems. 👨🏾‍💻
 
-I'm always open to learning, collaborating, and exploring new technologies. Whether it's contributing to a challenging project, improving development workflows, or picking up a new tech stack, I'm excited to grow and make an impact in the tech industry 🧠.
-
 
 ## 💻 tech stack used & interested in
 <p align="center">
