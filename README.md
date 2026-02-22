@@ -54,9 +54,11 @@ An ambitious and passionate software engineer with a deep interest in building i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zsh/zsh-original.svg" alt="Zsh" width="50" height="50"/>
 </p>
 
+<!--
 ## 📊stats & activity
 ![stats](https://github-readme-stats.vercel.app/api?username=TBadru&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBadru&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TBadru&theme=dark)
+-->
