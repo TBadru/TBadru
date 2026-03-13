@@ -36,7 +36,7 @@ An ambitious and passionate software engineer with a deep interest in building i
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>-->
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" alt="yml" width="55" height="55"/>
   <!-- 🧰 Tools & IDEs -->
