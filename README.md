@@ -24,7 +24,6 @@ An ambitious and passionate software engineer with a deep interest in building i
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="45" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="45" height="55"/>
-
   <img src="https://www.vectorlogo.zone/logos/bunsh/bunsh-icon.svg" alt="bunjs" width="45" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="45" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" width="45" height="55"/>
