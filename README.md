@@ -24,15 +24,20 @@ An ambitious and passionate software engineer with a deep interest in building i
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="45" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="45" height="55"/>
+
+  <img src="https://www.vectorlogo.zone/logos/bunsh/bunsh-icon.svg" alt="bunjs" width="45" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="45" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="ionic" width="45" height="55"/>
   <!-- 🗄️ Backend & Databases -->
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqllite" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="55" height="55"/>
   <!-- ☁️ Cloud & DevOps -->
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="55" height="55"/>
-   <!-- <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>-->
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>-->
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" alt="yml" width="55" height="55"/>
   <!-- 🧰 Tools & IDEs -->
@@ -45,7 +50,9 @@ An ambitious and passionate software engineer with a deep interest in building i
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="55" height="55"/> 
   <!-- 💻 Operating Systems & Environments -->
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
-   <!-- <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="55" height="55"/> -->
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" alt="nixospkg" width="55" height="55"/>
   <!-- 🌐 Others / Misc -->
   <img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" alt="opensource" width="55" height="55"/>
   <!-- Shell -->
