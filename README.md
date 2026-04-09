@@ -10,8 +10,8 @@ Ambitious, passionate Software Engineer and polyglot developer, experienced acro
   <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="65" height="65"/> 
-  <img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-icon.svg" alt="zig" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="cplusplus" width="55" height="55"/>
+  <!--<img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-icon.svg" alt="zig" width="55" height="55"/>-->
+  <!--<img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="cplusplus" width="55" height="55"/>--
   <!-- ⚛️ Frameworks & Libraries -->
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/.NET_Core_Logo.svg" alt=".NET Core" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55"/>
