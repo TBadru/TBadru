@@ -1,7 +1,9 @@
 <!-- <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /></p> -->
 
 ## 👨🏽‍💻 about me
-Ambitious, passionate Software Engineer and polyglot developer, experienced across the full SDLC, building scalable, high-performance systems in diverse industries with a focus on modern architectures, cloud-native solutions and solving complex real-world problems.
+Software engineer and polyglot developer operating as a high-impact individual contributor, delivering scalable, high-performance systems from concept through to production using a range of technologies and platforms.
+
+Experienced across the full SDLC. Contribute to technical decision-making, aligning implementation choices with performance, reliability, and business outcomes.
 
 
 ## 💻 tech stack used & interested in
@@ -19,6 +21,7 @@ Ambitious, passionate Software Engineer and polyglot developer, experienced acro
     <td><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="55"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"  width="55"/></td>
   </tr>
 
   <tr>
@@ -33,6 +36,7 @@ Ambitious, passionate Software Engineer and polyglot developer, experienced acro
     <td><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="55"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="55"/></td>
   </tr>
 
   <tr>
@@ -47,10 +51,10 @@ Ambitious, passionate Software Engineer and polyglot developer, experienced acro
     <td><img src="https://www.vectorlogo.zone/logos/nuget/nuget-icon.svg" width="45"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="55"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="55"/></td>
   </tr>
 
   <tr>
-    <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" width="55"/></td>
