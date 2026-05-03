@@ -1,9 +1,7 @@
 <!-- <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /></p> -->
 
 ## 👨🏽‍💻 about me
-Software engineer and polyglot developer operating as a high-impact individual contributor, delivering scalable, high-performance systems from concept through to production using a range of technologies and platforms.
-
-Experienced across the full SDLC. Contribute to technical decision-making, aligning implementation choices with performance, reliability, and business outcomes.
+Software engineer and polyglot developer operating as an individual contributor, delivering scalable, high-performance systems across the full SDLC, from concept through to production across a range of technologies and platforms.
 
 
 ## 💻 tech stack used & interested in
@@ -14,6 +12,7 @@ Experienced across the full SDLC. Contribute to technical decision-making, align
     <td><img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="65"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg"  width="55"/></td>
     <td><img src="https://commons.wikimedia.org/wiki/Special:FilePath/.NET_Core_Logo.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="55"/></td>
@@ -37,11 +36,10 @@ Experienced across the full SDLC. Contribute to technical decision-making, align
     <td><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="55"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="55"/></td>
   </tr>
 
   <tr>
-    <td><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="55"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" width="55"/></td>
@@ -52,12 +50,12 @@ Experienced across the full SDLC. Contribute to technical decision-making, align
     <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="55"/></td>
-  </tr>
-
-  <tr>
     <td><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" width="55"/></td>
+  </tr>
+
+  <tr>
     <td><img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="55"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="50"/></td>
