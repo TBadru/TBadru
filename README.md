@@ -9,9 +9,9 @@ Software engineer and polyglot developer operating as an individual contributor,
 <table align="center">
   <tr>
     <td><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" width="55"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="65"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg"  width="55"/></td>
     <td><img src="https://commons.wikimedia.org/wiki/Special:FilePath/.NET_Core_Logo.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="55"/></td>
@@ -30,7 +30,7 @@ Software engineer and polyglot developer operating as an individual contributor,
     <td><img src="https://www.vectorlogo.zone/logos/bunsh/bunsh-icon.svg" width="45"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="45"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" width="45"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="55"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="55"/></td>
@@ -60,5 +60,9 @@ Software engineer and polyglot developer operating as an individual contributor,
     <td><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="55"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="50"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zsh/zsh-original.svg" width="50"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="50"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/envoyproxyio/envoyproxyio-icon.svg" width="50"/></td>
   </tr>
 </table>
+
+List is not exhaustive.
