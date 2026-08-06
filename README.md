@@ -1,7 +1,7 @@
 <!-- <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /></p> -->
 
 ## 👨🏽‍💻 about me
-Software engineer and polyglot developer operating as an individual contributor, delivering scalable, high-performance systems across the full SDLC, from concept through to production across a range of technologies and platforms.
+Software engineer and polyglot developer.
 
 
 ## 💻 tech stack used & interested in
