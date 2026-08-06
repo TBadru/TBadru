@@ -1,7 +1,7 @@
 <!-- <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /></p> -->
 
 ## 👨🏽‍💻 about me
-Software engineer and polyglot developer.
+Software engineer and polyglot developer currently based in the UK. Previously, I studied Software Engineering at the University of Bedfordshire.
 
 
 ## 💻 tech stack used & interested in
