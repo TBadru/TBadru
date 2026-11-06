@@ -13,7 +13,7 @@ Software engineer and polyglot developer currently based in the UK. Previously, 
     <td><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="65"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" width="55"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg"  width="55"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg"  width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="55"/></td>
@@ -24,12 +24,12 @@ Software engineer and polyglot developer currently based in the UK. Previously, 
 
   <tr>
     <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/bunsh/bunsh-icon.svg" width="45"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/bunsh/bunsh-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="55"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="45"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="45"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="55"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-icon.svg" width="50"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" width="45"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"  width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="55"/></td>
@@ -47,7 +47,7 @@ Software engineer and polyglot developer currently based in the UK. Previously, 
     <td><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="65"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/nuget/nuget-icon.svg" width="45"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/nuget/nuget-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="55"/></td>
   </tr>
@@ -60,11 +60,11 @@ Software engineer and polyglot developer currently based in the UK. Previously, 
     <td><img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" width="55"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="55"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="50"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zsh/zsh-original.svg" width="50"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="50"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/envoyproxyio/envoyproxyio-icon.svg" width="50"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="55"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zsh/zsh-original.svg" width="55"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="55"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/envoyproxyio/envoyproxyio-icon.svg" width="55"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" width="55"/></td>
   </tr>
 </table>
 
